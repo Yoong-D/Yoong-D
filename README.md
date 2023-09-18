@@ -22,7 +22,24 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black"> 
-> 
+
+  <h1> 📜 Major Knowledge 📜</h1>
+  <li> 이산구조론 </li>
+  <li> 선형대수 </li>
+  <li> 컴퓨터구조 </li>
+  <li> 데이터베이스 </li>
+  <li> 자료구조 </li>
+  <li> 알고리즘 </li>
+  <li> 운영체제 </li>
+  <li> 네트워크 보안 </li>
+  <li> 오픈 소스 하드웨어 응용(아두이노) </li>
+  <li> 회로이론 및 실험 </li>
+  <li> 신호 및 시스템 </li>
+  <li> 계산이론(오토마타) </li>
+  
+  <h1> 🔎 Career 🔎</h1>
+  <li>인턴 : 에스큐브아이 - 2023.01.02 ~ 2023.06.30</li>
+  <li>사원 : 에스큐브아이 - 2023.07.01 ~ ing</li>
 </div>
 
 
