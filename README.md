@@ -2,8 +2,7 @@
 <div align = "center">  
   <h1> ✨ About Me ✨ </h1> 
   안녕하세요!<br> 
-  저는 빅데이터와 스마트IOT를 복수 전공 중인 대학생입니다.<br>   
-  그리고 에스큐브아이의 기술부에서 정보 보안 솔루션 엔지니어로 재직중입니다.<br><br>
+  저는 빅데이터와 스마트IOT를 복수 전공 중인 대학생입니다.<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Yoong-D&show_icons=true&theme=tokyonight" alt="Yoong's github stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoong-D&layout=compact&theme=tokyonight" alt="Top Langs" width="440">
   
