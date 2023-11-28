@@ -7,10 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoong-D&layout=compact&theme=tokyonight" alt="Top Langs" width="440">
   
   
-  <h1> 🔥 Main Skill 🔥 </h1>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <h1> 💡 Other Skill 💡</h1>
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+ 
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
