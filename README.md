@@ -3,7 +3,7 @@
   <h1> ✨ About Me ✨ </h1> 
   안녕하세요!<br> 
   저는 빅데이터와 스마트IOT를 복수 전공 중인 대학생입니다.<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoong-D&show_icons=true&theme=tokyonight" alt="Yoong's github stats" width="400">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoong-D&layout=compact&theme=tokyonight" alt="Top Langs" width="440">
   
   
@@ -38,8 +38,7 @@
   
   <h1> 🔎 Career 🔎</h1>
   <li>한림대학교 빅데이터 전공 스마트 Iot 복수전공 2019.02 ~ 2024.02 졸업예정</li>
-  <li>인턴 : 에스큐브아이 - 2023.01.02 ~ 2023.06.30</li>
-  <li>사원 : 에스큐브아이 - 2023.07.01 ~ ing</li>  
+  <li>에스큐브아이 - 2023.01.02 ~ 2023.10.30</li>
 </div>
 
 
