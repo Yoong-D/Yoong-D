@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black"><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoong-D&layout=compact&theme=tokyonight" alt="Top Langs" width="440">
-    <br><br>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoong-D%2FYoong-D&count_bg=%2379C83D&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
+<!--     <br><br>
+<!--     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoong-D%2FYoong-D&count_bg=%2379C83D&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a> --> -->
   
   <h1> 📜 Major Knowledge 📜</h1>
   <li> 이산구조론 </li>
