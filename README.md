@@ -4,7 +4,8 @@
   
   안녕하세요!<br> 
   저는 백엔드 개발자를 꿈꾸고 있는 김유진입니다.
-   <br><br>
+   <br>
+  [![notion Badge](https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black)](https://yoong-d.notion.site/BACK-END-JAVA-10-af91493a0e2345e2b535416d10934354)
 <a href="https://yoond-dev.tistory.com/">
   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yoond-dev.tistory.com"/>
 </a>
