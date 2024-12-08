@@ -5,25 +5,25 @@
   사용자 중심의 서비스를 창출하며, 도전 앞에 두려움 없는 <b>백엔드 개발자 김유진 </b>입니다. <br><br>
 </div>
 
-<div class="technology">
-  <p align="center">
+<div align="center" class="technology">
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
   </a>
   </p>
-   <p align="center">
+   <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,redis,mongodb" />
   </a>
   </p>
-     <p align="center">
+     <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,githubactions,gradle,docker,aws,linux,idea,eclipse,notion,discord,figma" />
   </a>
   </p>
   <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoong-D&layout=compact&theme=tokyonight" alt="Top Langs" width="440"> 
 </div>
-
 
 <div align = "center" class="education">
   <h1>Education</h1>
