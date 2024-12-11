@@ -41,16 +41,16 @@
   <h1>Project</h1>
   
   <h4> 1) FluffyTime </h4>
-   <li>반려동물 전용 SNS 웹 사이트</li>
+   <li>반려동물 전용 SNS 웹 서비스</li>
   <li>https://fluffytime.o-r.kr/</li>
   <li>https://github.com/Yoong-D/FluffyTime</li>
 
   <h4> 2) 어의 </h4>
-   <li>재택치료 가이드 웹 사이트</li>
+   <li>재택치료 가이드 웹 서비스</li>
    <li>https://github.com/Yoong-D/2022SWexhibition</li>
 
   <h4> 3) CVE Search Web </h4>
-  <li>CVE 통합 검색 웹 사이트</li>
+  <li>CVE 통합 검색 웹 서비스</li>
   <li>https://github.com/Yoong-D/2023_CVE_Search</li>
 
   <h4> 4) 구하자 꽥꽥 </h4>
@@ -66,11 +66,11 @@
     <li>https://github.com/Yoong-D/2020-CAERANG</li>
 
   <h4> 7) Velog Store </h4>
-  <li>블로그 웹 사이트</li>
+  <li>블로그 웹 서비스</li>
   <li>https://github.com/Yoong-D/blog</li>
   
   <h4> 8) Board </h4>
-  <li>게시판 웹 사이트</li>
+  <li>게시판 웹 서비스</li>
   <li>https://github.com/Yoong-D/2024_Board_Project</li>
   
   <h4> 9) Chatting </h4>
