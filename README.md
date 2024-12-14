@@ -33,8 +33,8 @@
 
 <div align = "center" class="career">
   <h1>Career</h1>
-   <li>에스큐브아이 인턴 - 2023.01.02 ~ 2023.06.30</li>
-   <li>에스큐브아이 사원 - 2023.07.01 ~ 2023.10.30</li>
+   <li>에스큐브아이 인턴 - 2023.01 ~ 2023.06 </li>
+   <li>에스큐브아이 사원 - 2023.07 ~ 2023.11 </li>
 </div>
 
 <div align = "center" class="project">
